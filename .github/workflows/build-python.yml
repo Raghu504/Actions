@@ -17,4 +17,4 @@ jobs:
       - name: Display Python version
         run: python -c "import sys; print(sys.version)"
       - name: Running python
-        run: add.py
+        run: python add.py
